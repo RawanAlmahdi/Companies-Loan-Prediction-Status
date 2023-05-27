@@ -7,7 +7,7 @@ The objective is to predict the completion status of loans, indicating whether a
 
 ## Key Determinants: 
 The project aims to identify and understand the key factors that influence the successful completion of loans. By analyzing these determinants, insights can be gained into the factors that contribute to loan completion or non-completion.
-
+      
 ## Informed Decision-Making: 
 The project intends to utilize the identified determinants to make informed decisions regarding loan approvals and risk management. By leveraging the insights gained from the analysis, the project aims to enhance the decision-making process in terms of loan approvals and mitigating potential risks.
 
